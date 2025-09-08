@@ -35,7 +35,7 @@ int main(int argc, char **argv) {
     app.run();
     return 0;
   }
-  h
+  
   // run intro
   AntIntroApp intro;
   intro.init();
